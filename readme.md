@@ -15,4 +15,6 @@ members or found helpful for managing open source project and offices.
 ## GitHub Management
 
 - [azure-oss-portal](https://github.com/Azure/azure-oss-portal) - Azure's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.
+- [gander](https://github.com/paypal/gander) - Gander is a dashboard to give you usable metrics for a range of open source projects in one quick look. It is designed for individuals who are responsible for running Open Source Offices or keeping track of multiple Open Source projects.
 - [oss-dashboard](https://github.com/amznlabs/oss-dashboard) - A dashboard for viewing many GitHub organizations, and/or users, at once.
+- [osstracker](https://github.com/Netflix/osstracker) - OSS Tracker is an application that collects information about a Github organization and aggregates the data across all projects within that organization into a single user interface to be used by various roles within the owning organization.
