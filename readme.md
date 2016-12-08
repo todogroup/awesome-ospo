@@ -1,7 +1,7 @@
 # awesome-oss-mgmt
 
 This list identifies packages and projects that have been built by TODO Group
-members or found helpful for managing open source project and offices.
+members or found helpful for managing open source projects and offices.
 
 
 ## Code Reviews
