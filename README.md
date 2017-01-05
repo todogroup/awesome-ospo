@@ -3,7 +3,6 @@
 This list identifies packages and projects that have been built by TODO Group
 members or found helpful for managing open source projects and offices.
 
-
 ## Code Reviews
 
 - [mention-bot](https://github.com/facebook/mention-bot) - The mention bot will automatically mention potential reviewers on pull requests. It helps getting faster turnaround on pull requests by involving the right people early on.
@@ -20,3 +19,7 @@ members or found helpful for managing open source projects and offices.
 - [oss-dashboard](https://github.com/amznlabs/oss-dashboard) - A dashboard for viewing many GitHub organizations, and/or users, at once.
 - [osstracker](https://github.com/Netflix/osstracker) - OSS Tracker is an application that collects information about a Github organization and aggregates the data across all projects within that organization into a single user interface to be used by various roles within the owning organization.
 - [Zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories (from code reviews to necessary files)
+
+## Project Quality
+
+- [CII Best Practices Badging](https://bestpractices.coreinfrastructure.org/) - The Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice.
