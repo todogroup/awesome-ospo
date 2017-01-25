@@ -18,6 +18,7 @@ members or found helpful for managing open source projects and offices.
 - [gander](https://github.com/paypal/gander) - Gander is a dashboard to give you usable metrics for a range of open source projects in one quick look. It is designed for individuals who are responsible for running Open Source Offices or keeping track of multiple Open Source projects.
 - [oss-dashboard](https://github.com/amznlabs/oss-dashboard) - A dashboard for viewing many GitHub organizations, and/or users, at once.
 - [osstracker](https://github.com/Netflix/osstracker) - OSS Tracker is an application that collects information about a Github organization and aggregates the data across all projects within that organization into a single user interface to be used by various roles within the owning organization.
+- [github-configurer](https://github.com/bkeepers/github-configurer) - uses .github/config.yml as the source of truth, and any changes to that file in the default branch will update GitHub
 - [Zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories (from code reviews to necessary files)
 
 ## Project Quality
