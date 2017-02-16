@@ -11,6 +11,7 @@ members or found helpful for managing open source projects and offices.
 ## Contributor License Agreements
 
 - [CLA Assistant](https://github.com/cla-assistant/cla-assistant) - Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.
+- [DCOB](https://github.com/chef/dcob) - A bot for enforcing developer certificate of origin sign-offs for each commit in a PR
 
 ## GitHub Metrics and Dashboards
 
