@@ -31,3 +31,7 @@ members or found helpful for managing open source projects and offices.
 ## Project Quality
 
 - [CII Best Practices Badging](https://bestpractices.coreinfrastructure.org/) - The Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice.
+
+## Licensing
+
+- [LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies
