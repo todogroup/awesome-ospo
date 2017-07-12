@@ -37,3 +37,6 @@ members or found helpful for managing open source projects and offices.
 - [LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies
 - [ScanCode toolkit](https://github.com/nexB/scancode-toolkit) - Scan code for licenses, copyright and dependencies
 
+# License
+
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) © Contributors 2016-2017
