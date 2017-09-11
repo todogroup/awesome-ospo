@@ -19,10 +19,11 @@ members or found helpful for managing open source projects and offices.
 
 - [oss-dashboard](https://github.com/amznlabs/oss-dashboard) - A dashboard for viewing many GitHub organizations, and/or users, at once.
 - [osstracker](https://github.com/Netflix/osstracker) - OSS Tracker is an application that collects information about a Github organization and aggregates the data across all projects within that organization into a single user interface to be used by various roles within the owning organization.
+- [ghcrawler](https://github.com/microsoft/ghcrawler) - GHCrawler is a GitHub API crawler that crawls a GitHub-hosted project and automatically tracks, retrieves, and stores its contents. GHCrawler is primarily intended for people trying to track sets of organizations and data repositories.
 
 ## GitHub Management
 
-- [azure-oss-portal](https://github.com/Azure/azure-oss-portal) - Azure's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.
+- [opensource-portal](https://github.com/Microsoft/opensource-portal) - Microsoft's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.
 - [gander](https://github.com/paypal/gander) - Gander is a dashboard to give you usable metrics for a range of open source projects in one quick look. It is designed for individuals who are responsible for running Open Source Offices or keeping track of multiple Open Source projects.
 - [hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management
 - [github-configurer](https://github.com/bkeepers/github-configurer) - uses .github/config.yml as the source of truth, and any changes to that file in the default branch will update GitHub
