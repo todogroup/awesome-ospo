@@ -29,6 +29,8 @@ members or found helpful for managing open source projects and offices.
 - [hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management
 - [github-configurer](https://github.com/bkeepers/github-configurer) - uses .github/config.yml as the source of truth, and any changes to that file in the default branch will update GitHub
 - [Zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories (from code reviews to necessary files)
+- [FBShipIt](https://github.com/facebook/fbshipit) - A library written in Hack for copying commits from one repository to another.'
+- [Copybara](https://github.com/google/copybara) - A tool for transforming and moving code between repositories.
 
 ## Project Quality
 
@@ -41,7 +43,6 @@ members or found helpful for managing open source projects and offices.
 - [LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies
 - [ScanCode toolkit](https://github.com/nexB/scancode-toolkit) - Scan code for licenses, copyright and dependencies
 - [Licensee](https://github.com/benbalter/licensee) - Identify a project's license file
-- [License Identifier (LiD)](https://github.com/codeauroraforum/lid) - Identify and extract license text from source code
 - [askalono](https://github.com/amzn/askalono) - a library and command-line tool to help detect license texts. It's designed to be fast, accurate, and to support a wide variety of license texts.
 
 # License
