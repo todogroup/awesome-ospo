@@ -6,7 +6,7 @@ members or found helpful for managing open source projects and offices.
 ## Code Reviews
 
 - [mention-bot](https://github.com/facebook/mention-bot) - The mention bot will automatically mention potential reviewers on pull requests. It helps getting faster turnaround on pull requests by involving the right people early on.
-- [PullApprove](https://about.pullapprove.com/) - Allows for fancier rules on how pull requests are approved.
+- [PullApprove](https://pullapprove.com/) - Allows for fancier rules on how pull requests are approved.
 - [sentinel](https://github.com/habitat-sh/sentinel) - PR Test, review, and merge workflow bot
 - [pull-review](https://github.com/imsky/pull-review) - assign pull request reviewers intelligently, inspired by mention-bot
 
