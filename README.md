@@ -18,7 +18,7 @@ members or found helpful for managing open source projects and offices.
 
 ## GitHub Metrics and Dashboards
 
-- [oss-dashboard](https://github.com/amznlabs/oss-dashboard) - A dashboard for viewing many GitHub organizations, and/or users, at once.
+- [oss-dashboard](https://github.com/amzn/oss-dashboard) - A dashboard for viewing many GitHub organizations, and/or users, at once.
 - [osstracker](https://github.com/Netflix/osstracker) - OSS Tracker is an application that collects information about a Github organization and aggregates the data across all projects within that organization into a single user interface to be used by various roles within the owning organization.
 - [ghcrawler](https://github.com/microsoft/ghcrawler) - GHCrawler is a GitHub API crawler that crawls a GitHub-hosted project and automatically tracks, retrieves, and stores its contents. GHCrawler is primarily intended for people trying to track sets of organizations and data repositories.
 
@@ -27,7 +27,7 @@ members or found helpful for managing open source projects and offices.
 - [opensource-portal](https://github.com/Microsoft/opensource-portal) - Microsoft's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.
 - [gander](https://github.com/paypal/gander) - Gander is a dashboard to give you usable metrics for a range of open source projects in one quick look. It is designed for individuals who are responsible for running Open Source Offices or keeping track of multiple Open Source projects.
 - [hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management
-- [github-configurer](https://github.com/bkeepers/github-configurer) - uses .github/config.yml as the source of truth, and any changes to that file in the default branch will update GitHub
+- [GitHub Settings](https://github.com/probot/settings) - uses .github/config.yml as the source of truth, and any changes to that file in the default branch will update GitHub
 - [Zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories (from code reviews to necessary files)
 - [FBShipIt](https://github.com/facebook/fbshipit) - A library written in Hack for copying commits from one repository to another.'
 - [Copybara](https://github.com/google/copybara) - A tool for transforming and moving code between repositories.
@@ -48,4 +48,4 @@ members or found helpful for managing open source projects and offices.
 
 # License
 
-[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) © Contributors 2016-2017
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) © Contributors 2016-2018
