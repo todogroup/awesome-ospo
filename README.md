@@ -21,6 +21,8 @@ members or found helpful for managing open source projects and offices.
 - [oss-dashboard](https://github.com/amzn/oss-dashboard) - A dashboard for viewing many GitHub organizations, and/or users, at once.
 - [osstracker](https://github.com/Netflix/osstracker) - OSS Tracker is an application that collects information about a Github organization and aggregates the data across all projects within that organization into a single user interface to be used by various roles within the owning organization.
 - [ghcrawler](https://github.com/microsoft/ghcrawler) - GHCrawler is a GitHub API crawler that crawls a GitHub-hosted project and automatically tracks, retrieves, and stores its contents. GHCrawler is primarily intended for people trying to track sets of organizations and data repositories.
+- [devstats](https://github.com/cncf/devstats) - A toolset to visualize GitHub archives using Grafana dashboards used by the Cloud Native Computing Foundation and Kubernetes
+- [MeasureOSS](https://github.com/MeasureOSS/Measure) - A contributor relationship management system
 
 ## GitHub Management
 
