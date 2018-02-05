@@ -47,6 +47,7 @@ members or found helpful for managing open source projects and offices.
 - [Licensee](https://github.com/benbalter/licensee) - Identify a project's license file
 - [License Identifier (LiD)](https://github.com/codeauroraforum/lid) - Identify and extract license text from source code
 - [askalono](https://github.com/amzn/askalono) - a library and command-line tool to help detect license texts. It's designed to be fast, accurate, and to support a wide variety of license texts.
+- [License Classifier](https://github.com/google/licenseclassifier) - A library and set of tools that can analyze text to determine what type of license it contains
 
 # License
 
