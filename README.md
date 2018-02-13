@@ -33,6 +33,7 @@ members or found helpful for managing open source projects and offices.
 - [Zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories (from code reviews to necessary files)
 - [FBShipIt](https://github.com/facebook/fbshipit) - A library written in Hack for copying commits from one repository to another.'
 - [Copybara](https://github.com/google/copybara) - A tool for transforming and moving code between repositories.
+- [github org scripts](https://github.com/mozilla/github-org-scripts) - Some helper scripts to manage github orgs via API.
 
 ## Project Quality
 
