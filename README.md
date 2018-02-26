@@ -15,6 +15,7 @@ members or found helpful for managing open source projects and offices.
 - [CLA Assistant](https://github.com/cla-assistant/cla-assistant) - Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.
 - [DCOB](https://github.com/chef/dcob) - A bot for enforcing developer certificate of origin sign-offs for each commit in a PR
 - [CLA Portal](https://github.com/vmware/claportal) - Enables a workflow for contributors to sign a CLA for pull requests to your GitHub repositories. Also supports DCO sign-offs in the commits.
+- [OSS Contribution Tracker](https://github.com/amzn/oss-contribution-tracker) -  Track contributions made to external projects and manage CLAs
 
 ## GitHub Metrics and Dashboards
 
@@ -49,6 +50,7 @@ members or found helpful for managing open source projects and offices.
 - [License Identifier (LiD)](https://github.com/codeauroraforum/lid) - Identify and extract license text from source code
 - [askalono](https://github.com/amzn/askalono) - a library and command-line tool to help detect license texts. It's designed to be fast, accurate, and to support a wide variety of license texts.
 - [License Classifier](https://github.com/google/licenseclassifier) - A library and set of tools that can analyze text to determine what type of license it contains
+- [OSS Attribution Builder](https://github.com/amzn/oss-attribution-builder) -  The OSS Attribution Builder is a website that helps teams create attribution documents (notices, "open source screens", credits, etc) commonly found in software products. 
 
 # License
 
