@@ -48,7 +48,7 @@ members or found helpful for managing open source projects and offices.
 
 ## Licensing
 
-- [SPDX] (https://spdx.org) - Set of standards for communicating the componants, licenses and copyright associated with a software package.
+- [SPDX](https://spdx.org) - Set of standards for communicating the componants, licenses and copyright associated with a software package.
 - [LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies
 - [ScanCode toolkit](https://github.com/nexB/scancode-toolkit) - Scan code for licenses, copyright and dependencies
 - [FOSSology](https://www.fossology.org) - Scan code for license, copyright and export control information
