@@ -42,6 +42,10 @@ members or found helpful for managing open source projects and offices.
 - [RepoLinter](https://github.com/todogroup/repolinter) - Lint open source repositories for common issues.
 - [Linguist](https://github.com/github/linguist) - Identify the programming languages used in a project.
 
+## Supply Chain Trust
+
+- [OpenChain Conformance](https://certification.openchainproject.org) - The OpenChain Specification is a way for companies using Free/Libre and Open Source Software (FLOSS) to show that they meet the key requirements for quality compliance programs. Companies can voluntarily self-certify, at no cost, by using this web application.
+
 ## Licensing
 
 - [LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies
