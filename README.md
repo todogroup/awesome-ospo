@@ -56,7 +56,9 @@ members or found helpful for managing open source projects and offices.
 - [License Identifier (LiD)](https://github.com/codeauroraforum/lid) - Identify and extract license text from source code
 - [askalono](https://github.com/amzn/askalono) - a library and command-line tool to help detect license texts. It's designed to be fast, accurate, and to support a wide variety of license texts.
 - [License Classifier](https://github.com/google/licenseclassifier) - A library and set of tools that can analyze text to determine what type of license it contains
-- [OSS Attribution Builder](https://github.com/amzn/oss-attribution-builder) -  The OSS Attribution Builder is a website that helps teams create attribution documents (notices, "open source screens", credits, etc) commonly found in software products. 
+- [OSS Attribution Builder](https://github.com/amzn/oss-attribution-builder) - The OSS Attribution Builder is a website that helps teams create attribution documents (notices, "open source screens", credits, etc) commonly found in software products.
+- [fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase
+- [Licensed](https://github.com/github/licensed) - A Ruby gem to cache and verify the licenses of dependencies
 
 # License
 
