@@ -62,9 +62,10 @@ members or found helpful for managing open source projects and offices.
 - [Licensed](https://github.com/github/licensed) - A Ruby gem to cache and verify the licenses of dependencies
 - [LicensePlist](https://github.com/mono0926/LicensePlist) - A command-line tool that automatically generates a Plist of all your dependencies, including files added manually(specified by YAML config file) or using Carthage or CocoaPods.
 
-## Localization and Internationalization 
+## Localization and Internationalization
 
 - [zanata](https://github.com/zanata/zanata-platform) - Zanata is a web-based system for translators to translate documentation and software online using a web browser.
+- [Weblate](https://weblate.org/) - Weblate is a free web-based translation management system.
 
 # License
 
