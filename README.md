@@ -41,6 +41,7 @@ members or found helpful for managing open source projects and offices.
 
 - [CII Best Practices Badging](https://bestpractices.coreinfrastructure.org/) - The Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice.
 - [RepoLinter](https://github.com/todogroup/repolinter) - Lint open source repositories for common issues.
+  - [RepoLinter Dashboard](https://github.com/todogroup/repolinter-dashboard) - A Dashboard for RepoLinter
 - [Linguist](https://github.com/github/linguist) - Identify the programming languages used in a project.
 - [repo-scaffolding](https://github.com/twitter/repo-scaffolding) - Scaffolding tools for creating and maintaining projects based on Twitter Open Source standards and best practices.
 
