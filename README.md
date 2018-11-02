@@ -64,6 +64,7 @@ members or found helpful for managing open source projects and offices.
 - [fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase
 - [Licensed](https://github.com/github/licensed) - A Ruby gem to cache and verify the licenses of dependencies
 - [LicensePlist](https://github.com/mono0926/LicensePlist) - A command-line tool that automatically generates a Plist of all your dependencies, including files added manually(specified by YAML config file) or using Carthage or CocoaPods.
+- [dpkg-licenses](https://github.com/daald/dpkg-licenses) - A command line tool which lists the licenses of all installed packages in a Debian-based system (like Ubuntu).
 
 ## Localization and Internationalization
 
