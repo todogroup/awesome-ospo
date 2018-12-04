@@ -5,8 +5,8 @@ members or found helpful for managing open source projects and offices.
 
 ## Code Reviews
 
-- [mention-bot](https://github.com/facebook/mention-bot) - The mention bot will automatically mention potential reviewers on pull requests. It helps getting faster turnaround on pull requests by involving the right people early on.
-- [PullApprove](https://pullapprove.com/) - Allows for fancier rules on how pull requests are approved.
+- [mention-bot](https://github.com/facebookarchive/mention-bot) - The mention bot will automatically mention potential reviewers on pull requests. It helps getting faster turnaround on pull requests by involving the right people early on.
+- [PullApprove](https://www.pullapprove.com) - Allows for fancier rules on how pull requests are approved.
 - [sentinel](https://github.com/habitat-sh/sentinel) - PR Test, review, and merge workflow bot
 - [pull-review](https://github.com/imsky/pull-review) - assign pull request reviewers intelligently, inspired by mention-bot
 
@@ -25,7 +25,7 @@ members or found helpful for managing open source projects and offices.
 - [ghcrawler](https://github.com/microsoft/ghcrawler) - GHCrawler is a GitHub API crawler that crawls a GitHub-hosted project and automatically tracks, retrieves, and stores its contents. GHCrawler is primarily intended for people trying to track sets of organizations and data repositories.
 - [devstats](https://github.com/cncf/devstats) - A toolset to visualize GitHub archives using Grafana dashboards used by the Cloud Native Computing Foundation and Kubernetes
 - [MeasureOSS](https://github.com/MeasureOSS/Measure) - A contributor relationship management system
-- [GrimoireLab](https://chaoss.github.io/grimoirelab) - Software development analytics platform supporting more than 30 different data sources, part of CHAOSS Software project from The Linux Foundation
+- [GrimoireLab](https://chaoss.github.io/grimoirelab/) - Software development analytics platform supporting more than 30 different data sources, part of CHAOSS Software project from The Linux Foundation
 
 ## GitHub Management
 
@@ -53,7 +53,7 @@ members or found helpful for managing open source projects and offices.
 ## Licensing
 
 - [SPDX](https://spdx.org) - Set of standards for communicating the components, licenses and copyright associated with a software package.
-- [LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies
+- [LicenseFinder](https://github.com/pivotal-legacy/LicenseFinder) - Find licenses for your project's dependencies
 - [ScanCode toolkit](https://github.com/nexB/scancode-toolkit) - Scan code for licenses, copyright and dependencies
 - [FOSSology](https://www.fossology.org) - Scan code for license, copyright and export control information
 - [Licensee](https://github.com/benbalter/licensee) - Identify a project's license file
