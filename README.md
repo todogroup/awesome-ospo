@@ -1,4 +1,4 @@
-# awesome-oss-mgmt
+# Awesome OSS Management [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 This list identifies packages and projects that have been built by TODO Group
 members or found helpful for managing open source projects and offices.
