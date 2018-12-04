@@ -3,6 +3,19 @@
 This list identifies packages and projects that have been built by TODO Group
 members or found helpful for managing open source projects and offices.
 
+## Contents
+* [Code Reviews](#code-reviews)
+* [Contributor License Agreements](#contributor-license-agreements)
+* [GitHub Metrics and Dashboards](#github-metrics-and-dashboards)
+* [GitHub Management](#github-management)
+* [Project Quality](#project-quality)
+* [Supply Chain Trust](#supply-chain-trust)
+* [Licensing](#licensing)
+* [Localization and Internationalization](#localization-and-internationalization)
+* [Websites and Documentation](#websites-and-documentation)
+* [License](#license)
+
+
 ## Code Reviews
 
 - [mention-bot](https://github.com/facebookarchive/mention-bot) - The mention bot will automatically mention potential reviewers on pull requests. It helps getting faster turnaround on pull requests by involving the right people early on.
