@@ -1,7 +1,20 @@
-# awesome-oss-mgmt
+# Awesome OSS Management [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 This list identifies packages and projects that have been built by TODO Group
 members or found helpful for managing open source projects and offices.
+
+## Contents
+* [Code Reviews](#code-reviews)
+* [Contributor License Agreements](#contributor-license-agreements)
+* [GitHub Metrics and Dashboards](#github-metrics-and-dashboards)
+* [GitHub Management](#github-management)
+* [Project Quality](#project-quality)
+* [Supply Chain Trust](#supply-chain-trust)
+* [Licensing](#licensing)
+* [Localization and Internationalization](#localization-and-internationalization)
+* [Websites and Documentation](#websites-and-documentation)
+* [License](#license)
+
 
 ## Code Reviews
 
@@ -79,4 +92,4 @@ members or found helpful for managing open source projects and offices.
 
 # License
 
-[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) © Contributors 2016-2018
+[![License: CC BY-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/) © Contributors 2016-2018
