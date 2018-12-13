@@ -50,6 +50,9 @@ members or found helpful for managing open source projects and offices.
 - [FBShipIt](https://github.com/facebook/fbshipit) - A library written in Hack for copying commits from one repository to another.'
 - [Copybara](https://github.com/google/copybara) - A tool for transforming and moving code between repositories.
 - [github org scripts](https://github.com/mozilla/github-org-scripts) - Some helper scripts to manage github orgs via API.
+- [github-org-mgmt scripts](https://github.com/bertvv/github-org-mgmt) - A few scripts for managing a Github organization
+- [Automated Github Organization Invites](https://github.com/thundergolfer/automated-github-organization-invites) - Host a webpage allow people to click and receive and invite to your Github Organization
+
 
 ## Project Quality
 
