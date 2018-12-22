@@ -52,7 +52,7 @@ members or found helpful for managing open source projects and offices.
 - [github org scripts](https://github.com/mozilla/github-org-scripts) - Some helper scripts to manage github orgs via API.
 - [github-org-mgmt scripts](https://github.com/bertvv/github-org-mgmt) - A few scripts for managing a Github organization
 - [Automated Github Organization Invites](https://github.com/thundergolfer/automated-github-organization-invites) - Host a webpage allow people to click and receive and invite to your Github Organization
-
+- [Pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo. 
 
 ## Project Quality
 
