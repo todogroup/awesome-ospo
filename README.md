@@ -54,6 +54,7 @@ members or found helpful for managing open source projects and offices.
 - [github-org-mgmt scripts](https://github.com/bertvv/github-org-mgmt) - A few scripts for managing a Github organization
 - [Automated Github Organization Invites](https://github.com/thundergolfer/automated-github-organization-invites) - Host a webpage allow people to click and receive and invite to your Github Organization
 - [Pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo. 
+- [Grit](https://github.com/grailbio/grit) - Grit is a tool to mirror monorepo subtrees to Github
 
 ## Project Quality
 
