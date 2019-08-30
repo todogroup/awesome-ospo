@@ -14,6 +14,7 @@ members or found helpful for managing open source projects and offices.
 * [Localization and Internationalization](#localization-and-internationalization)
 * [Websites and Documentation](#websites-and-documentation)
 * [License](#license)
+* [Security](#security)
 
 
 ## Code Reviews
@@ -94,6 +95,10 @@ members or found helpful for managing open source projects and offices.
 - [Docusaurus](https://docusaurus.io) - Docusaurus is a React-based static site generator, specifically developed to more easily help create and maintain open source websites.
 - [GatsbyJS](https://www.gatsbyjs.org/) - Gatsby is a site generator that allows you to build fast websites and apps with React.
 - [VuePress](https://vuepress.vuejs.org/) - VuePress is a minimalistic Vue-based static site generator, optimized for writing technical documentation.
+
+## Security
+
+- [Vulnerability Assessment Tool](https://github.com/SAP/vulnerability-assessment-tool) - The Vulnerability Assessment Tool helps to discover, assess and mitigate known vulnerabilities in Java and Python projects.
 
 # License
 
