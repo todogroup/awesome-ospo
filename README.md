@@ -24,6 +24,7 @@ members or found helpful for managing open source projects and offices.
 - [sentinel](https://github.com/habitat-sh/sentinel) - PR Test, review, and merge workflow bot
 - [pull-review](https://github.com/imsky/pull-review) - assign pull request reviewers intelligently, inspired by mention-bot
 - [pull-request-size](https://github.com/noqcks/pull-request-size) - Automatically adds GitHub labels based on the size of a Pull Request.
+- [Pullie](https://github.com/godaddy/pullie) - GitHub App that helps with PRs: requests reviews, links Jira tickets, nags for missing required file changes (e.g. changelog entries)
 
 ## Contributor License Agreements
 
