@@ -13,7 +13,7 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  build:
+  repo-lint:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -24,6 +24,5 @@ jobs:
 
     - name: repolinter
       uses: philips-labs/github-action-repolinter@0.1.0
-      with:
-        # a path to a custom-repolint-file you wish to use
-        custom-repolint-file: https://raw.githubusercontent.com/todogroup/.github/master/repolint.json
+      env:
+        CUSTOM_REPOLINT_FILE: https://raw.githubusercontent.com/todogroup/.github/master/repolint.json
