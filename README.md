@@ -59,6 +59,8 @@ members or found helpful for managing open source projects and offices.
 - [Pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo. 
 - [Grit](https://github.com/grailbio/grit) - Grit is a tool to mirror monorepo subtrees to Github
 - [Sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite
+- [Mariner Issue Collector](https://github.com/indeedeng/Mariner-Issue-Collector) - Identify open issues across all of your dependencies
+
 
 ## Project Quality
 
