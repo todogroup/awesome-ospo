@@ -42,6 +42,7 @@ members or found helpful for managing open source projects and offices.
 - [devstats](https://github.com/cncf/devstats) - A toolset to visualize GitHub archives using Grafana dashboards used by the Cloud Native Computing Foundation and Kubernetes
 - [MeasureOSS](https://github.com/MeasureOSS/Measure) - A contributor relationship management system
 - [GrimoireLab](https://chaoss.github.io/grimoirelab/) - Software development analytics platform supporting more than 30 different data sources, part of CHAOSS Software project from The Linux Foundation
+- [Starfish](https://github.com/indeedeng/starfish) - A tool to identify GitHub contributions within a specified window of time. 
 
 ## GitHub Management
 
