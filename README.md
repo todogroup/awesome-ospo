@@ -5,7 +5,8 @@ members or found helpful for managing open source projects and offices.
 
 ## Contents
 * [Code Reviews](#code-reviews)
-* [Contributor License Agreements](#contributor-license-agreements)
+* [Continuous Integration / Continuous Delivery](#continuous-integration-deployment)
+* [Contributor License Agreements / Developer Certificate of Origins](#contributor-license-agreements)
 * [GitHub Metrics and Dashboards](#github-metrics-and-dashboards)
 * [GitHub Management](#github-management)
 * [Project Quality](#project-quality)
@@ -16,7 +17,6 @@ members or found helpful for managing open source projects and offices.
 * [License](#license)
 * [Security](#security)
 
-
 ## Code Reviews
 
 - [mention-bot](https://github.com/facebookarchive/mention-bot) - The mention bot will automatically mention potential reviewers on pull requests. It helps getting faster turnaround on pull requests by involving the right people early on.
@@ -26,7 +26,19 @@ members or found helpful for managing open source projects and offices.
 - [pull-request-size](https://github.com/noqcks/pull-request-size) - Automatically adds GitHub labels based on the size of a Pull Request.
 - [Pullie](https://github.com/godaddy/pullie) - GitHub App that helps with PRs: requests reviews, links Jira tickets, nags for missing required file changes (e.g. changelog entries)
 
-## Contributor License Agreements
+## Continuous Integration / Continuous Delivery 
+
+- [GitHub Actions](https://github.com/features/actions) - Automate your workflow from idea to production.
+- [Jenkins](https://www.jenkins.io/) - open source automation server that provides hundreds of plugins to support building, deploying and automating any project.
+- [Jenkins X](https://www.jenkins.io/) - open source CI/CD solution for modern cloud applications on Kubernetes.
+- [Ortelius](https://ortelius.io/) - providing a central catalog of services with their deployment specs, application teams can easily consume and deploy services across cluster.
+- [Screwdriver](https://screwdriver.cd/) -  Screwdriver is an open source build platform designed for Continuous Delivery.
+- [Spinnaker](https://spinnaker.io/) - multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence
+- [Tekton](https://tekton.dev/) - set of shared, open source components for building CI/CD systems
+- [Travis CI](https://travis-ci.org/) - A hosted continuous integration service used to build and test software projects hosted at GitHub and Bitbucket
+
+
+## Contributor License Agreements / Developer Certificate of Originis
 
 - [CLA Assistant](https://github.com/cla-assistant/cla-assistant) - Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.
 - [DCOB](https://github.com/chef/dcob) - A bot for enforcing developer certificate of origin sign-offs for each commit in a PR
@@ -43,11 +55,11 @@ members or found helpful for managing open source projects and offices.
 - [MeasureOSS](https://github.com/MeasureOSS/Measure) - A contributor relationship management system
 - [GrimoireLab](https://chaoss.github.io/grimoirelab/) - Software development analytics platform supporting more than 30 different data sources, part of CHAOSS Software project from The Linux Foundation
 - [Starfish](https://github.com/indeedeng/starfish) - A tool to identify GitHub contributions within a specified window of time. 
+- [Project Portal](https://github.com/SAP/project-portal-for-innersource) - Lists all InnerSource (or Open Source) projects of a company in an interactive and easy to use way. Can be used as a template for implementing the "InnerSource portal" pattern by the InnerSource Commons community. 
 
 ## GitHub Management
 
 - [opensource-portal](https://github.com/Microsoft/opensource-portal) - Microsoft's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.
-- [gander](https://github.com/paypal/gander) - Gander is a dashboard to give you usable metrics for a range of open source projects in one quick look. It is designed for individuals who are responsible for running Open Source Offices or keeping track of multiple Open Source projects.
 - [hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management
 - [GitHub Settings](https://github.com/probot/settings) - uses .github/config.yml as the source of truth, and any changes to that file in the default branch will update GitHub
 - [Zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories (from code reviews to necessary files)
@@ -69,6 +81,7 @@ members or found helpful for managing open source projects and offices.
   - [RepoLinter Dashboard](https://github.com/todogroup/repolinter-dashboard) - A Dashboard for RepoLinter
 - [Linguist](https://github.com/github/linguist) - Identify the programming languages used in a project.
 - [repo-scaffolding](https://github.com/twitter/repo-scaffolding) - Scaffolding tools for creating and maintaining projects based on Twitter Open Source standards and best practices.
+- [Repo Health Check](https://github.com/dogweather/repo-health-check) - Analyze a project: How are the maintainers doing?
 
 ## Supply Chain Trust
 
