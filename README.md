@@ -26,7 +26,7 @@ members or found helpful for managing open source projects and offices.
 - [pull-request-size](https://github.com/noqcks/pull-request-size) - Automatically adds GitHub labels based on the size of a Pull Request.
 - [Pullie](https://github.com/godaddy/pullie) - GitHub App that helps with PRs: requests reviews, links Jira tickets, nags for missing required file changes (e.g. changelog entries)
 
-## Continuous Integration / Continuous Delivery (CI/CD)
+## Continuous Integration / Continuous Delivery 
 
 - [GitHub Actions](https://github.com/features/actions) - Automate your workflow from idea to production.
 - [Jenkins](https://www.jenkins.io/) - open source automation server that provides hundreds of plugins to support building, deploying and automating any project.
@@ -38,7 +38,7 @@ members or found helpful for managing open source projects and offices.
 - [Travis CI](https://travis-ci.org/) - A hosted continuous integration service used to build and test software projects hosted at GitHub and Bitbucket
 
 
-## Contributor License Agreements
+## Contributor License Agreements / Developer Certificate of Originis
 
 - [CLA Assistant](https://github.com/cla-assistant/cla-assistant) - Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.
 - [DCOB](https://github.com/chef/dcob) - A bot for enforcing developer certificate of origin sign-offs for each commit in a PR
@@ -56,6 +56,7 @@ members or found helpful for managing open source projects and offices.
 - [GrimoireLab](https://chaoss.github.io/grimoirelab/) - Software development analytics platform supporting more than 30 different data sources, part of CHAOSS Software project from The Linux Foundation
 - [Starfish](https://github.com/indeedeng/starfish) - A tool to identify GitHub contributions within a specified window of time. 
 -[Project Portal](https://github.com/SAP/project-portal-for-innersource) - Lists all InnerSource projects of a company in an interactive and easy to use way. Can be used as a template for implementing the "InnerSource portal" pattern by the InnerSource Commons community.
+[Repo Health Check](https://github.com/dogweather/repo-health-check) - Analyze a project: How are the maintainers doing?
 
 ## GitHub Management
 
