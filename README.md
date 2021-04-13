@@ -30,7 +30,7 @@ members or found helpful for managing open source projects and offices.
 
 - [GitHub Actions](https://github.com/features/actions) - Automate your workflow from idea to production.
 - [Jenkins](https://www.jenkins.io/) - open source automation server that provides hundreds of plugins to support building, deploying and automating any project.
-- [Jenkins X](https://www.jenkins.io/) - open source CI/CD solution for modern cloud applications on Kubernetes.
+- [Jenkins X](https://jenkins-x.io/) - open source CI/CD solution for modern cloud applications on Kubernetes.
 - [Ortelius](https://ortelius.io/) - providing a central catalog of services with their deployment specs, application teams can easily consume and deploy services across cluster.
 - [Screwdriver](https://screwdriver.cd/) -  Screwdriver is an open source build platform designed for Continuous Delivery.
 - [Spinnaker](https://spinnaker.io/) - multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence
