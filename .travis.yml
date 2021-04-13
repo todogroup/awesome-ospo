@@ -1,7 +1,0 @@
-language: ruby
-rvm: 2.4
-cache: bundler
-before_script:
-  - gem install awesome_bot
-script:
-  - awesome_bot --allow-redirect --skip-save-results -w pullapprove README.md
