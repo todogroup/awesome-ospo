@@ -5,8 +5,8 @@ members or found helpful for managing open source projects and offices.
 
 ## Contents
 * [Code Reviews](#code-reviews)
-* [Continuous Integration / Continuous Delivery](#continuous-integration-deployment)
-* [Contributor License Agreements / Developer Certificate of Origins](#contributor-license-agreements)
+* [Continuous Integration / Continuous Delivery](##continuous-integration--continuous-delivery)
+* [Contributor License Agreements / Developer Certificate of Origins](contributor-license-agreements--developer-certificate-of-originis)
 * [GitHub Metrics and Dashboards](#github-metrics-and-dashboards)
 * [GitHub Management](#github-management)
 * [Project Quality](#project-quality)
@@ -14,8 +14,9 @@ members or found helpful for managing open source projects and offices.
 * [Licensing](#licensing)
 * [Localization and Internationalization](#localization-and-internationalization)
 * [Websites and Documentation](#websites-and-documentation)
-* [License](#license)
 * [Security](#security)
+* [In-Kind Donations](#in-kind-donations)
+* [Content License](#content-license)
 
 ## Code Reviews
 
@@ -73,7 +74,6 @@ members or found helpful for managing open source projects and offices.
 - [Sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite
 - [Mariner Issue Collector](https://github.com/indeedeng/Mariner-Issue-Collector) - Identify open issues across all of your dependencies
 
-
 ## Project Quality
 
 - [CII Best Practices Badging](https://bestpractices.coreinfrastructure.org/) - The Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice.
@@ -121,6 +121,11 @@ members or found helpful for managing open source projects and offices.
 
 - [Vulnerability Assessment Tool](https://github.com/SAP/vulnerability-assessment-tool) - The Vulnerability Assessment Tool helps to discover, assess and mitigate known vulnerabilities in Java and Python projects.
 
-# License
+## In-Kind Donations
+The following organizations have formal or informal programs for offering in-kind donations to free and open source projects or foundations. 
+- [AWS](https://aws.amazon.com/opensource/) - AWS started a program in 2019 to provide promotional credits to open source projects. Deatils are in [this blog post](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/) and you can [Apply Here](https://pages.awscloud.com/AWS-Credits-for-Open-Source-Projects) (Last Updated: April 14, 2021)
+- [Indeed](https://opensource.indeed.com) - If you work in a charitable organization that serves the free and open source software communities, and you are trying to hire for your organization, Indeed's Open Source Program Office may be able to provide promotional credits for to advertise your job posting on Indeed.com. Email opensource@indeed.com for details. (Last updated: April 14, 2021)
 
-[![License: CC BY-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/) © Contributors 2016-2018
+# Content License
+
+[![License: CC BY-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/) © Contributors 2016-2021
