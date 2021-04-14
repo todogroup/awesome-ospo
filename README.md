@@ -5,8 +5,8 @@ members or found helpful for managing open source projects and offices.
 
 ## Contents
 * [Code Reviews](#code-reviews)
-* [Continuous Integration / Continuous Delivery](##continuous-integration--continuous-delivery)
-* [Contributor License Agreements / Developer Certificate of Origins](contributor-license-agreements--developer-certificate-of-originis)
+* [Continuous Integration / Continuous Delivery](#continuous-integration--continuous-delivery)
+* [Contributor License Agreements / Developer Certificate of Origins](#contributor-license-agreements--developer-certificate-of-originis)
 * [GitHub Metrics and Dashboards](#github-metrics-and-dashboards)
 * [GitHub Management](#github-management)
 * [Project Quality](#project-quality)
