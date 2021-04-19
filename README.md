@@ -77,6 +77,7 @@ members or found helpful for managing open source projects and offices.
 ## Project Quality
 
 - [CII Best Practices Badging](https://bestpractices.coreinfrastructure.org/) - The Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice.
+- [Fosstars](https://github.com/SAP/fosstars-rating-core) - A framework for defining and calculating ratings for open source projects
 - [RepoLinter](https://github.com/todogroup/repolinter) - Lint open source repositories for common issues.
   - [RepoLinter Dashboard](https://github.com/todogroup/repolinter-dashboard) - A Dashboard for RepoLinter
 - [Linguist](https://github.com/github/linguist) - Identify the programming languages used in a project.
@@ -119,7 +120,7 @@ members or found helpful for managing open source projects and offices.
 
 ## Security
 
-- [Vulnerability Assessment Tool](https://github.com/SAP/vulnerability-assessment-tool) - The Vulnerability Assessment Tool helps to discover, assess and mitigate known vulnerabilities in Java and Python projects.
+- [Eclipse Steady](https://github.com/eclipse/steady) - Eclipse Steady, formerly known as "Vulnerability Assessement Tool" (Vulas), helps to discover, assess and mitigate known vulnerabilities in Java and Python projects.
 
 ## In-Kind Donations
 The following organizations have formal or informal programs for offering in-kind donations to free and open source projects or foundations. 
