@@ -119,7 +119,7 @@ members or found helpful for managing open source projects and offices.
 
 ## Security
 
-- [Vulnerability Assessment Tool](https://github.com/SAP/vulnerability-assessment-tool) - The Vulnerability Assessment Tool helps to discover, assess and mitigate known vulnerabilities in Java and Python projects.
+- [Eclipse Steady](https://github.com/eclipse/steady) - Eclipse Steady, formerly known as "Vulnerability Assessement Tool" (Vulas), helps to discover, assess and mitigate known vulnerabilities in Java and Python projects.
 
 ## In-Kind Donations
 The following organizations have formal or informal programs for offering in-kind donations to free and open source projects or foundations. 
