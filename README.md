@@ -106,6 +106,7 @@ members or found helpful for managing open source projects and offices.
 - [dpkg-licenses](https://github.com/daald/dpkg-licenses) - A command line tool which lists the licenses of all installed packages in a Debian-based system (like Ubuntu).
 - [FOSSID](https://fossid.com) - A comprehensive commercial scanner for licenses and vulnerabilities.  Knowledgebase covers 78M+ repositories and 600B+ snippets. Includes detailed snippet scanning to detect the license on fragments and copied/pasted code, even if the open source license is not explicitly or correctly declared.
 - [DependencyTrack](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain
+- [ScanOSS](https://www.scanoss.com/) - Scan your codebase for snippets and plagerism from large knowledge base of open source projects.  Designed to integrate with CI/CD and modern IDEs, to "start left" to do continuous validation instead of one report at the end.  Product itself is fully open source.  
 
 ## Localization and Internationalization
 
@@ -124,7 +125,7 @@ members or found helpful for managing open source projects and offices.
 
 ## In-Kind Donations
 The following organizations have formal or informal programs for offering in-kind donations to free and open source projects or foundations. 
-- [AWS](https://aws.amazon.com/opensource/) - AWS started a program in 2019 to provide promotional credits to open source projects. Deatils are in [this blog post](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/) and you can [Apply Here](https://pages.awscloud.com/AWS-Credits-for-Open-Source-Projects) (Last Updated: April 14, 2021)
+- [AWS](https://aws.amazon.com/opensource/) - AWS started a program in 2019 to provide promotional credits to open source projects. Details are in [this blog post](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/) and you can [Apply Here](https://pages.awscloud.com/AWS-Credits-for-Open-Source-Projects) (Last Updated: April 14, 2021)
 - [Indeed](https://opensource.indeed.com) - If you work in a charitable organization that serves the free and open source software communities, and you are trying to hire for your organization, Indeed's Open Source Program Office may be able to provide promotional credits for to advertise your job posting on Indeed.com. Email opensource@indeed.com for details. (Last updated: April 14, 2021)
 
 # Content License
