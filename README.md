@@ -38,14 +38,14 @@ members or found helpful for managing open source projects and offices.
 - [Tekton](https://tekton.dev/) - set of shared, open source components for building CI/CD systems
 - [Travis CI](https://travis-ci.org/) - A hosted continuous integration service used to build and test software projects hosted at GitHub and Bitbucket
 
-
-## Contributor License Agreements / Developer Certificate of Originis
+## Contributor License Agreements / Developer Certificate of Origins
 
 - [CLA Assistant](https://github.com/cla-assistant/cla-assistant) - Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.
 - [DCOB](https://github.com/chef/dcob) - A bot for enforcing developer certificate of origin sign-offs for each commit in a PR
 - [CLA Portal](https://github.com/vmware/claportal) - Enables a workflow for contributors to sign a CLA for pull requests to your GitHub repositories. Also supports DCO sign-offs in the commits.
 - [OSS Contribution Tracker](https://github.com/amzn/oss-contribution-tracker) - Track contributions made to external projects and manage CLAs
 - [Dr CLA](https://github.com/salesforce/dr-cla) - GitHub bot for dealing with Contributor License Agreements
+- [DCO Bot](https://github.com/probot/dco) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
 
 ## GitHub Metrics and Dashboards
 
@@ -73,6 +73,10 @@ members or found helpful for managing open source projects and offices.
 - [Grit](https://github.com/grailbio/grit) - Grit is a tool to mirror monorepo subtrees to Github
 - [Sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite
 - [Mariner Issue Collector](https://github.com/indeedeng/Mariner-Issue-Collector) - Identify open issues across all of your dependencies
+
+## Governance
+
+- [Minimal Viable Governance](https://github.com/github/MVG) - Currently in beta - is a repository-based approach for putting lightweight governance into free and open source projects that are run in version control systems. It provides an overall two-tier organizational governance structure for a set of free and open source projects.
 
 ## Project Quality
 
