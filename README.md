@@ -127,6 +127,7 @@ members or found helpful for managing open source projects and offices.
 ## Security
 
 - [Eclipse Steady](https://github.com/eclipse/steady) - Eclipse Steady, formerly known as "Vulnerability Assessement Tool" (Vulas), helps to discover, assess and mitigate known vulnerabilities in Java and Python projects.
+- [Lift](https://www.sonatype.com/products/sonatype-lift) — Sonatype Lift is a free forever, cloud-native and collaborative code analysis platform built for developers. It analyzes each developer pull request to find and fix security, performance, reliability, and style issues, then reports them as comments in code review — where they are 70x more likely to get fixed.
 
 ## In-Kind Donations
 The following organizations have formal or informal programs for offering in-kind donations to free and open source projects or foundations. 
