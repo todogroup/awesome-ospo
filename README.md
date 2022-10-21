@@ -3,20 +3,19 @@
 This list identifies packages and projects that have been built by TODO Group
 members or found helpful for managing open source projects and offices.
 
-## Contents
-* [Code Reviews](#code-reviews)
-* [Continuous Integration / Continuous Delivery](#continuous-integration--continuous-delivery)
-* [Contributor License Agreements / Developer Certificate of Origins](#contributor-license-agreements--developer-certificate-of-originis)
-* [GitHub Metrics and Dashboards](#github-metrics-and-dashboards)
-* [GitHub Management](#github-management)
-* [Project Quality](#project-quality)
-* [Supply Chain Trust](#supply-chain-trust)
-* [Licensing](#licensing)
-* [Localization and Internationalization](#localization-and-internationalization)
-* [Websites and Documentation](#websites-and-documentation)
-* [Security](#security)
-* [In-Kind Donations](#in-kind-donations)
-* [Content License](#content-license)
+- [Code Reviews](#code-reviews)
+- [Continuous Integration / Continuous Delivery](#continuous-integration--continuous-delivery)
+- [Contributor License Agreements / Developer Certificate of Origins](#contributor-license-agreements--developer-certificate-of-origins)
+- [GitHub Metrics and Dashboards](#github-metrics-and-dashboards)
+- [GitHub Management](#github-management)
+- [Governance](#governance)
+- [Project Quality](#project-quality)
+- [Supply Chain Trust](#supply-chain-trust)
+- [Licensing](#licensing)
+- [Localization and Internationalization](#localization-and-internationalization)
+- [Websites and Documentation](#websites-and-documentation)
+- [Security](#security)
+- [In-Kind Donations](#in-kind-donations)
 
 ## Code Reviews
 
@@ -71,6 +70,7 @@ members or found helpful for managing open source projects and offices.
 - [Powerpipe GitHub Sherlock Mod](https://hub.powerpipe.io/mods/turbot/steampipe-mod-github-sherlock) - Interrogate your GitHub resource configurations to identify improvements based on best practices.
 - [(Corporate) Git Proxy](https://github.com/finos/git-proxy) - Scan outgoing attempts to push to public repository and raise compliance/info-sec friendly checks before allowing the push to complete.
 - [Stale Repos Action](https://github.com/github/stale-repos) - Get a regular report of inactive repositories in your organization so that you can choose to archive or revive.
+- [Forker](https://github.com/marketplace/actions/github-forker) - A GitHub Action that can automate the creation of fork repositories.
 
 ## Governance
 
