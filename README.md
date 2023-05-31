@@ -76,6 +76,7 @@ members or found helpful for managing open source projects and offices.
 - [Steampipe GitHub Plugin](https://hub.steampipe.io/plugins/turbot/github) - Query GitHub Repositories, Organizations, and other resources with SQL.
 - [Steampipe GitHub Sherlock](https://hub.steampipe.io/mods/turbot/github_sherlock) - Interrogate your GitHub resource configurations to identify improvements based on best practices.
 - [(Corporate) Git Proxy](https://github.com/finos/git-proxy) - Scan outgoing attempts to push to public repository and raise compliance/info-sec friendly checks before allowing the push to complete.
+- [Stale Repos Action](https://github.com/github/stale-repos) - Get a regular report of inactive repositories in your organization so that you can choose to archive or revive.
 
 ## Governance
 
