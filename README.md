@@ -76,6 +76,7 @@ members or found helpful for managing open source projects and offices.
 - [Steampipe GitHub Plugin](https://hub.steampipe.io/plugins/turbot/github) - Query GitHub Repositories, Organizations, and other resources with SQL.
 - [Steampipe GitHub Sherlock](https://hub.steampipe.io/mods/turbot/github_sherlock) - Interrogate your GitHub resource configurations to identify improvements based on best practices.
 - [(Corporate) Git Proxy](https://github.com/finos/git-proxy) - Scan outgoing attempts to push to public repository and raise compliance/info-sec friendly checks before allowing the push to complete.
+- [Stale Repos Action](https://github.com/github/stale-repos) - Get a regular report of inactive repositories in your organization so that you can choose to archive or revive.
 
 ## Governance
 
@@ -137,7 +138,7 @@ members or found helpful for managing open source projects and offices.
 ## In-Kind Donations
 The following organizations have formal or informal programs for offering in-kind donations to free and open source projects or foundations. 
 - [AWS](https://aws.amazon.com/opensource/) - AWS started a program in 2019 to provide promotional credits to open source projects. Details are in [this blog post](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/) and you can [Apply Here](https://pages.awscloud.com/AWS-Credits-for-Open-Source-Projects) (Last Updated: April 14, 2021)
-- [Indeed](https://opensource.indeed.com) - If you work in a charitable organization that serves the free and open source software communities, and you are trying to hire for your organization, Indeed's Open Source Program Office may be able to provide promotional credits for to advertise your job posting on Indeed.com. Email opensource@indeed.com for details. (Last updated: April 14, 2021)
+- [Indeed](https://opensource.indeedeng.io/) - If you work in a charitable organization that serves the free and open source software communities, and you are trying to hire for your organization, Indeed's Open Source Program Office may be able to provide promotional credits for to advertise your job posting on Indeed.com. Email opensource@indeed.com for details. (Last updated: April 14, 2021)
 - [Azure Credits](https://cloudblogs.microsoft.com/opensource/2021/09/28/announcing-azure-credits-for-open-source-projects/) - This program grants Azure credits to open source projects for a year. Developers will be able to use these credits for testing, storage, or other development.
 
 # Content License
