@@ -57,7 +57,7 @@ members or found helpful for managing open source projects and offices.
 - [GrimoireLab](https://chaoss.github.io/grimoirelab/) - Software development analytics platform supporting more than 30 different data sources, part of CHAOSS Software project from The Linux Foundation
 - [Starfish](https://github.com/indeedeng/starfish) - A tool to identify GitHub contributions within a specified window of time. 
 - [Project Portal](https://github.com/SAP/project-portal-for-innersource) - Lists all InnerSource (or Open Source) projects of a company in an interactive and easy to use way. Can be used as a template for implementing the "InnerSource portal" pattern by the InnerSource Commons community.
-- [Issue/PR Metrics](https://github.com/github/issue-metrics) - a GitHub Action that searches for pull requests/issues in a repository and measures the time to first response for each issue. It then calculates the average time to first response and writes the issues with their time to first response to a Markdown file. The issues to search for can be filtered by using a search query.
+- [Issue/PR/Discussion Metrics](https://github.com/github/issue-metrics) - a GitHub Action that searches for pull requests/issues/discussions in a repository or organization and measures several available metrics like time to close and time to first response. It calculates the metrics and writes the metrics to a Markdown file. The issues/pull requests/discussions can be filtered by using a search query.
 
 ## GitHub Management
 
