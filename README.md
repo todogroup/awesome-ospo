@@ -118,6 +118,7 @@ members or found helpful for managing open source projects and offices.
 - [ScanOSS](https://www.scanoss.com/) - Scan your codebase for snippets and plagerism from large knowledge base of open source projects.  Designed to integrate with CI/CD and modern IDEs, to "start left" to do continuous validation instead of one report at the end.  Product itself is fully open source.  
 - [TLDRLegal](https://tldrlegal.com/) - TLDRLegal summarizes the most common open source licenses in plain English. Provides a quick reference for what a user can, cannot, and must do according to the license terms. 
 - [Choose A License](https://choosealicense.com/) - Choose A License recommends an open source license based on the collaboration style and intended use of a project. The site's appendix provides a helpful birds-eye view of terms across the most common licenses. 
+- [ClearlyDefined](https://clearlydefined.io/) - ClearlyDefined is an open source project and a free service that provides a cached copy of licensing metadata for software components through a simple [API](https://api.clearlydefined.io/api-docs/). Organizations are be able to contribute back any missing or wrongly identified licensing metadata, helping to create a global database that is accurate for the benefit of all, improving compliance and security across the whole software supply chain.  
 
 ## Localization and Internationalization
 
