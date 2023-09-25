@@ -58,6 +58,7 @@ members or found helpful for managing open source projects and offices.
 - [Starfish](https://github.com/indeedeng/starfish) - A tool to identify GitHub contributions within a specified window of time. 
 - [Project Portal](https://github.com/SAP/project-portal-for-innersource) - Lists all InnerSource (or Open Source) projects of a company in an interactive and easy to use way. Can be used as a template for implementing the "InnerSource portal" pattern by the InnerSource Commons community.
 - [Issue/PR/Discussion Metrics](https://github.com/github/issue-metrics) - a GitHub Action that searches for pull requests/issues/discussions in a repository or organization and measures several available metrics like time to close and time to first response. It calculates the metrics and writes the metrics to a Markdown file. The issues/pull requests/discussions can be filtered by using a search query.
+- [Augur](https://github.com/chaoss/augur) - A software suite for collecting and measuring structured data about OSS communities.
 
 ## GitHub Management
 
