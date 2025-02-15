@@ -12,4 +12,4 @@ jobs:
     - name: Run awesome_bot
       run: |
         gem install awesome_bot
-        awesome_bot --allow-redirect --skip-save-results README.md
+        awesome_bot --skip-save-results README.md
