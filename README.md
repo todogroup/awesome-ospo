@@ -86,7 +86,7 @@ members or found helpful for managing open source projects and offices.
 
 ## Supply Chain Trust
 
-- [OpenChain Conformance](https://certification.openchainproject.org) - The OpenChain Specification is a way for companies using Free/Libre and Open Source Software (FLOSS) to show that they meet the key requirements for quality compliance programs. Companies can voluntarily self-certify, at no cost, by using this web application.
+- [OpenChain Conformance](https://openchainproject.org) - The OpenChain Specification is a way for companies using Free/Libre and Open Source Software (FLOSS) to show that they meet the key requirements for quality compliance programs. Companies can voluntarily self-certify, at no cost, by using this web application.
 
 ## Licensing
 
@@ -127,9 +127,9 @@ members or found helpful for managing open source projects and offices.
 - [Lift](https://www.sonatype.com/products/sonatype-lift) — Sonatype Lift is a free forever, cloud-native and collaborative code analysis platform built for developers. It analyzes each developer pull request to find and fix security, performance, reliability, and style issues, then reports them as comments in code review — where they are 70x more likely to get fixed.
 
 ## In-Kind Donations
+
 The following organizations have formal or informal programs for offering in-kind donations to free and open source projects or foundations. 
 - [AWS](https://aws.amazon.com/opensource/) - AWS started a program in 2019 to provide promotional credits to open source projects. Details are in [this blog post](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/) and you can [Apply Here](https://pages.awscloud.com/AWS-Credits-for-Open-Source-Projects) (Last Updated: April 14, 2021)
-- [Indeed](https://opensource.indeedeng.io/) - If you work in a charitable organization that serves the free and open source software communities, and you are trying to hire for your organization, Indeed's Open Source Program Office may be able to provide promotional credits for to advertise your job posting on Indeed.com. Email opensource@indeed.com for details. (Last updated: April 14, 2021)
 - [Azure Credits](https://cloudblogs.microsoft.com/opensource/2021/09/28/announcing-azure-credits-for-open-source-projects/) - This program grants Azure credits to open source projects for a year. Developers will be able to use these credits for testing, storage, or other development.
 
 # Content License
