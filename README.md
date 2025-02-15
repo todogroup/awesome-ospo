@@ -35,13 +35,13 @@ members or found helpful for managing open source projects and offices.
 - [Screwdriver](https://screwdriver.cd/) -  Screwdriver is an open source build platform designed for Continuous Delivery.
 - [Spinnaker](https://spinnaker.io/) - multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence
 - [Tekton](https://tekton.dev/) - set of shared, open source components for building CI/CD systems
-- [Travis CI](https://travis-ci.org/) - A hosted continuous integration service used to build and test software projects hosted at GitHub and Bitbucket
+- [Travis CI](https://www.travis-ci.com/) - A hosted continuous integration service used to build and test software projects hosted at GitHub and Bitbucket
 
 ## Contributor License Agreements / Developer Certificate of Origins
 
 - [CLA Assistant](https://github.com/cla-assistant/cla-assistant) - Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.
 - [Dr CLA](https://github.com/salesforce/dr-cla) - GitHub bot for dealing with Contributor License Agreements
-- [DCO Bot](https://github.com/probot/dco) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
+- [DCO Bot](https://github.com/apps/dco) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
 
 ## GitHub Metrics and Dashboards
 
@@ -55,9 +55,9 @@ members or found helpful for managing open source projects and offices.
 
 ## GitHub Management
 
-- [opensource-portal](https://github.com/Microsoft/opensource-portal) - Microsoft's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.
+- [opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.
 - [hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management
-- [GitHub Settings](https://github.com/probot/settings) - uses .github/config.yml as the source of truth, and any changes to that file in the default branch will update GitHub
+- [GitHub Settings](https://github.com/apps/settings) - uses .github/config.yml as the source of truth, and any changes to that file in the default branch will update GitHub
 - [Copybara](https://github.com/google/copybara) - A tool for transforming and moving code between repositories.
 - [github org scripts](https://github.com/mozilla/github-org-scripts) - Some helper scripts to manage github orgs via API.
 - [github-org-mgmt scripts](https://github.com/bertvv/github-org-mgmt) - A few scripts for managing a Github organization
@@ -67,7 +67,7 @@ members or found helpful for managing open source projects and offices.
 - [Sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite
 - [Mariner Issue Collector](https://github.com/indeedeng/Mariner-Issue-Collector) - Identify open issues across all of your dependencies
 - [Steampipe GitHub Plugin](https://hub.steampipe.io/plugins/turbot/github) - Query GitHub Repositories, Organizations, and other resources with SQL.
-- [Steampipe GitHub Sherlock](https://hub.steampipe.io/mods/turbot/github_sherlock) - Interrogate your GitHub resource configurations to identify improvements based on best practices.
+- [Powerpipe GitHub Sherlock Mod](https://hub.powerpipe.io/mods/turbot/github_sherlock) - Interrogate your GitHub resource configurations to identify improvements based on best practices.
 - [(Corporate) Git Proxy](https://github.com/finos/git-proxy) - Scan outgoing attempts to push to public repository and raise compliance/info-sec friendly checks before allowing the push to complete.
 - [Stale Repos Action](https://github.com/github/stale-repos) - Get a regular report of inactive repositories in your organization so that you can choose to archive or revive.
 
@@ -77,10 +77,10 @@ members or found helpful for managing open source projects and offices.
 
 ## Project Quality
 
-- [CII Best Practices Badging](https://bestpractices.coreinfrastructure.org/) - The Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice.
+- [OpenSSF Best Practices Badge](https://www.bestpractices.dev/) - The Open Source Security Foundation (OpenSSF) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The OpenSSF Best Practices Badge is inspired by the many badges available to projects on GitHub. Consumers of the badge can quickly assess which FLOSS projects are following best practices and as a result are more likely to produce higher-quality secure software.
 - [Fosstars](https://github.com/SAP/fosstars-rating-core) - A framework for defining and calculating ratings for open source projects
 - [RepoLinter](https://github.com/todogroup/repolinter) - Lint open source repositories for common issues.
-- [Linguist](https://github.com/github/linguist) - Identify the programming languages used in a project.
+- [Linguist](https://github.com/github-linguist/linguist) - Identify the programming languages used in a project.
 - [repo-scaffolding](https://github.com/twitter/repo-scaffolding) - Scaffolding tools for creating and maintaining projects based on Twitter Open Source standards and best practices.
 - [Repo Health Check](https://github.com/dogweather/repo-health-check) - Analyze a project: How are the maintainers doing?
 
@@ -90,22 +90,22 @@ members or found helpful for managing open source projects and offices.
 
 ## Licensing
 
-- [SPDX](https://spdx.org) - Set of standards for communicating the components, licenses and copyright associated with a software package.
-- [LicenseFinder](https://github.com/pivotal-legacy/LicenseFinder) - Find licenses for your project's dependencies
-- [ScanCode toolkit](https://github.com/nexB/scancode-toolkit) - Scan code for licenses, copyright and dependencies
+- [SPDX](https://spdx.dev/) - Set of standards for communicating the components, licenses and copyright associated with a software package.
+- [LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies
+- [ScanCode toolkit](https://github.com/aboutcode-org/scancode-toolkit) - Scan code for licenses, copyright and dependencies
 - [FOSSology](https://www.fossology.org) - Scan code for license, copyright and export control information
-- [Licensee](https://github.com/benbalter/licensee) - Identify a project's license file
-- [askalono](https://github.com/amzn/askalono) - a library and command-line tool to help detect license texts. It's designed to be fast, accurate, and to support a wide variety of license texts.
+- [Licensee](https://github.com/licensee/licensee) - Identify a project's license file
+- [askalono](https://github.com/jpeddicord/askalono) - a library and command-line tool to help detect license texts. It's designed to be fast, accurate, and to support a wide variety of license texts.
 - [License Classifier](https://github.com/google/licenseclassifier) - A library and set of tools that can analyze text to determine what type of license it contains
-- [OSS Review Toolkit](https://github.com/heremaps/oss-review-toolkit) - enables highly automated and customizable Open Source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
+- [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) - enables highly automated and customizable Open Source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
 - [fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase
-- [Licensed](https://github.com/github/licensed) - A Ruby gem to cache and verify the licenses of dependencies
+- [Licensed](https://github.com/licensee/licensed) - A Ruby gem to cache and verify the licenses of dependencies
 - [LicensePlist](https://github.com/mono0926/LicensePlist) - A command-line tool that automatically generates a Plist of all your dependencies, including files added manually(specified by YAML config file) or using Carthage or CocoaPods.
 - [dpkg-licenses](https://github.com/daald/dpkg-licenses) - A command line tool which lists the licenses of all installed packages in a Debian-based system (like Ubuntu).
 - [FOSSID](https://fossid.com) - A comprehensive commercial scanner for licenses and vulnerabilities.  Knowledgebase covers 78M+ repositories and 600B+ snippets. Includes detailed snippet scanning to detect the license on fragments and copied/pasted code, even if the open source license is not explicitly or correctly declared.
 - [DependencyTrack](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain
 - [ScanOSS](https://www.scanoss.com/) - Scan your codebase for snippets and plagerism from large knowledge base of open source projects.  Designed to integrate with CI/CD and modern IDEs, to "start left" to do continuous validation instead of one report at the end.  Product itself is fully open source.  
-- [TLDRLegal](https://tldrlegal.com/) - TLDRLegal summarizes the most common open source licenses in plain English. Provides a quick reference for what a user can, cannot, and must do according to the license terms. 
+- [TLDRLegal](https://www.tldrlegal.com/) - TLDRLegal summarizes the most common open source licenses in plain English. Provides a quick reference for what a user can, cannot, and must do according to the license terms. 
 - [Choose A License](https://choosealicense.com/) - Choose A License recommends an open source license based on the collaboration style and intended use of a project. The site's appendix provides a helpful birds-eye view of terms across the most common licenses. 
 - [ClearlyDefined](https://clearlydefined.io/) - ClearlyDefined is an open source project and a free service that provides a cached copy of licensing metadata for software components through a simple [API](https://api.clearlydefined.io/api-docs/). Organizations are be able to contribute back any missing or wrongly identified licensing metadata, helping to create a global database that is accurate for the benefit of all, improving compliance and security across the whole software supply chain.  
 
@@ -113,24 +113,24 @@ members or found helpful for managing open source projects and offices.
 
 - [zanata](https://github.com/zanata/zanata-platform) - Zanata is a web-based system for translators to translate documentation and software online using a web browser.
 - [Weblate](https://weblate.org/) - Weblate is a free web-based translation management system.
-- [Respresso](https://respresso.io/localization-converter) - Multiplatform localization converter for iOS (.strings + Objective-C getters), Android (strings.xml) and Web (.json).
+- [Respresso](https://respresso.io/localization-converter/) - Multiplatform localization converter for iOS (.strings + Objective-C getters), Android (strings.xml) and Web (.json).
 
 ## Websites and Documentation
 
 - [Docusaurus](https://docusaurus.io) - Docusaurus is a React-based static site generator, specifically developed to more easily help create and maintain open source websites.
-- [GatsbyJS](https://www.gatsbyjs.org/) - Gatsby is a site generator that allows you to build fast websites and apps with React.
+- [GatsbyJS](http://www.gatsbyjs.com/) - Gatsby is a site generator that allows you to build fast websites and apps with React.
 - [VuePress](https://vuepress.vuejs.org/) - VuePress is a minimalistic Vue-based static site generator, optimized for writing technical documentation.
 
 ## Security
 
 - [Eclipse Steady](https://github.com/eclipse/steady) - Eclipse Steady, formerly known as "Vulnerability Assessement Tool" (Vulas), helps to discover, assess and mitigate known vulnerabilities in Java and Python projects.
-- [Lift](https://www.sonatype.com/products/sonatype-lift) — Sonatype Lift is a free forever, cloud-native and collaborative code analysis platform built for developers. It analyzes each developer pull request to find and fix security, performance, reliability, and style issues, then reports them as comments in code review — where they are 70x more likely to get fixed.
 
 ## In-Kind Donations
 
-The following organizations have formal or informal programs for offering in-kind donations to free and open source projects or foundations. 
-- [AWS](https://aws.amazon.com/opensource/) - AWS started a program in 2019 to provide promotional credits to open source projects. Details are in [this blog post](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/) and you can [Apply Here](https://pages.awscloud.com/AWS-Credits-for-Open-Source-Projects) (Last Updated: April 14, 2021)
-- [Azure Credits](https://cloudblogs.microsoft.com/opensource/2021/09/28/announcing-azure-credits-for-open-source-projects/) - This program grants Azure credits to open source projects for a year. Developers will be able to use these credits for testing, storage, or other development.
+The following organizations have formal or informal programs for offering in-kind donations to free and open source projects or foundations.
+
+- [AWS](https://aws.amazon.com/opensource/) - AWS started a program in 2019 to provide promotional credits to open source projects. Details are in [this blog post](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/) (Last Updated: April 14, 2021)
+- [Azure Credits](https://opensource.microsoft.com/azure-credits/) - This program grants Azure credits to open source projects, which developers can use for testing, storage, or other development.
 
 # Content License
 
