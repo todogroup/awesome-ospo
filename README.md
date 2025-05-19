@@ -42,6 +42,7 @@ members or found helpful for managing open source projects and offices.
 - [CLA Assistant](https://github.com/cla-assistant/cla-assistant) - Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.
 - [Dr CLA](https://github.com/salesforce/dr-cla) - GitHub bot for dealing with Contributor License Agreements
 - [DCO Bot](https://github.com/apps/dco) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
+- [EasyCLA](https://github.com/communitybridge/easycla) - a Contributor License Agreement (CLA) service used in Linux Foundation's LFX platform which lets project contributors read, sign, and submit contributor license agreements easily
 
 ## GitHub Metrics and Dashboards
 
