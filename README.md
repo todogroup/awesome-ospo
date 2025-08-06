@@ -46,6 +46,7 @@ members or found helpful for managing open source projects and offices.
 
 ## GitHub Metrics and Dashboards
 
+- [Repohistory](https://github.com/repohistory/repohistory) - An analytics tool for tracking GitHub repo traffic history longer than 14 days.
 - [osstracker](https://github.com/Netflix/osstracker) - OSS Tracker is an application that collects information about a Github organization and aggregates the data across all projects within that organization into a single user interface to be used by various roles within the owning organization.
 - [devstats](https://github.com/cncf/devstats) - A toolset to visualize GitHub archives using Grafana dashboards used by the Cloud Native Computing Foundation and Kubernetes
 - [MeasureOSS](https://github.com/MeasureOSS/Measure) - A contributor relationship management system
