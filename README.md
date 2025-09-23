@@ -1,7 +1,9 @@
 # Awesome OSS Management [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-This list identifies packages and projects that have been built by TODO Group
-members or found helpful for managing open source projects and offices.
+This list identifies packages and projects that have been built by [TODO Group
+members](https://github.com/todogroup/awesome-ospo) and [Ant Group OSPO](https://github.com/antgroup/) or found helpful for managing open source projects and offices.
+
+We hope you found it helpful for managing open-source projects. If you wanna contribute or suggest changes, feel free to submit a pull request.
 
 ## 📋 Contents
 - [📋 Contents](#-contents)
