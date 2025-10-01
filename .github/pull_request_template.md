@@ -61,7 +61,7 @@
 
 <!-- Check all that apply -->
 
-- [ ] I have read the [CONTRIBUTING.md](../CONTRIBUTING.md) guidelines
+- [ ] I have read the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines
 - [ ] I have searched for duplicate suggestions
 - [ ] The pull request has a descriptive title
 - [ ] I have added the entry to the bottom of the relevant category (if adding a new tool)
