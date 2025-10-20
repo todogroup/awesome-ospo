@@ -1,15 +1,19 @@
 name: CI
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+# Declare default permissions as read-only
+permissions: read-all
 
 jobs:
-  build:
+  lint:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 3.0.1
-    - name: Run awesome_bot
-      run: |
-        gem install awesome_bot
-        awesome_bot --allow 302 --skip-save-results README.md
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - run: npx awesome-lint
