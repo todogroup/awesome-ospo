@@ -4,7 +4,7 @@ We welcome improvements and suggestions! Please consider these guidelines:
 
 ## General Guidelines
 
-- Make an individual pull request for each suggestion.
+- Make an individual pull request for each suggestion using the provided template
 - The pull request and commit should have a useful title.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - New links should be added to the bottom of their relevant category.
@@ -55,3 +55,7 @@ If you believe a new category is needed:
 ## Pull Request Template
 
 When creating a pull request, please fill out the PR template completely. This helps maintainers review your contribution more efficiently and makes the review process smoother for everyone.
+
+## Wait for a maintainer to review
+
+A maintainer will get back to you in the following days. You can also raise the issue in <a href="https://join.slack.com/t/thetodogroup/shared_invite/zt-2w71kclgx-JOUB4LTXIuVEKehkJk7V0w">TODO slack</a> `#project-todo-gh`channel for quick response
