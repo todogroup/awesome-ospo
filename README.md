@@ -20,6 +20,8 @@ members or found helpful for managing open source projects and offices.
 
 ## Code Reviews
 
+Tools for managing and automating code review processes.
+
 - [PullApprove](https://www.pullapprove.com) - Allows for fancier rules on how pull requests are approved.
 - [sentinel](https://github.com/habitat-sh/sentinel) - PR Test, review, and merge workflow bot
 - [pull-review](https://github.com/imsky/pull-review) - assign pull request reviewers intelligently, inspired by mention-bot
@@ -27,6 +29,8 @@ members or found helpful for managing open source projects and offices.
 - [Pullie](https://github.com/godaddy/pullie) - GitHub App that helps with PRs: requests reviews, links Jira tickets, nags for missing required file changes (e.g. changelog entries)
 
 ## Continuous Integration / Continuous Delivery
+
+CI/CD platforms and tools.
 
 - [GitHub Actions](https://github.com/features/actions) - Automate your workflow from idea to production.
 - [Jenkins](https://www.jenkins.io/) - open source automation server that provides hundreds of plugins to support building, deploying and automating any project.
@@ -39,12 +43,16 @@ members or found helpful for managing open source projects and offices.
 
 ## Contributor License Agreements / Developer Certificate of Origins
 
+CLA and DCO management tools.
+
 - [CLA Assistant](https://github.com/cla-assistant/cla-assistant) - Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.
 - [Dr CLA](https://github.com/salesforce/dr-cla) - GitHub bot for dealing with Contributor License Agreements
 - [DCO Bot](https://github.com/apps/dco) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
 - [EasyCLA](https://github.com/linuxfoundation/easycla) - a Contributor License Agreement (CLA) service used in Linux Foundation's LFX platform which lets project contributors read, sign, and submit contributor license agreements easily
 
 ## GitHub Metrics and Dashboards
+
+Tools for tracking and visualizing GitHub activity.
 
 - [osstracker](https://github.com/Netflix/osstracker) - OSS Tracker is an application that collects information about a Github organization and aggregates the data across all projects within that organization into a single user interface to be used by various roles within the owning organization.
 - [devstats](https://github.com/cncf/devstats) - A toolset to visualize GitHub archives using Grafana dashboards used by the Cloud Native Computing Foundation and Kubernetes
@@ -55,6 +63,8 @@ members or found helpful for managing open source projects and offices.
 - [Augur](https://github.com/chaoss/augur) - A software suite for collecting and measuring structured data about OSS communities.
 
 ## GitHub Management
+
+Tools for managing GitHub organizations and repositories.
 
 - [opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.
 - [hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management
@@ -75,9 +85,13 @@ members or found helpful for managing open source projects and offices.
 
 ## Governance
 
+Tools for project governance and community management.
+
 - [Minimal Viable Governance](https://github.com/github/MVG) - Currently in beta - is a repository-based approach for putting lightweight governance into free and open source projects that are run in version control systems. It provides an overall two-tier organizational governance structure for a set of free and open source projects.
 
 ## Project Quality
+
+Tools for assessing and improving project quality.
 
 - [OpenSSF Best Practices Badge](https://www.bestpractices.dev/) - The Open Source Security Foundation (OpenSSF) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The OpenSSF Best Practices Badge is inspired by the many badges available to projects on GitHub. Consumers of the badge can quickly assess which FLOSS projects are following best practices and as a result are more likely to produce higher-quality secure software.
 - [Fosstars](https://github.com/SAP/fosstars-rating-core) - A framework for defining and calculating ratings for open source projects
@@ -88,9 +102,13 @@ members or found helpful for managing open source projects and offices.
 
 ## Supply Chain Trust
 
+Tools/frameworks for managing software supply chain security.
+
 - [OpenChain Conformance](https://openchainproject.org) - The OpenChain Specification is a way for companies using Free/Libre and Open Source Software (FLOSS) to show that they meet the key requirements for quality compliance programs. Companies can voluntarily self-certify, at no cost, by using this web application.
 
 ## Licensing
+
+Tools for managing and tracking open source licenses.
 
 - [SPDX](https://spdx.dev/) - Set of standards for communicating the components, licenses and copyright associated with a software package.
 - [LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies
@@ -113,11 +131,15 @@ members or found helpful for managing open source projects and offices.
 
 ## Localization and Internationalization
 
+Tools for managing translations and i18n.
+
 - [zanata](https://github.com/zanata/zanata-platform) - Zanata is a web-based system for translators to translate documentation and software online using a web browser.
 - [Weblate](https://weblate.org/) - Weblate is a free web-based translation management system.
 - [Respresso](https://respresso.io/localization-converter/) - Multiplatform localization converter for iOS (.strings + Objective-C getters), Android (strings.xml) and Web (.json).
 
 ## Websites and Documentation
+
+Tools for creating and managing project websites and documentation.
 
 - [Docusaurus](https://docusaurus.io) - Docusaurus is a React-based static site generator, specifically developed to more easily help create and maintain open source websites.
 - [GatsbyJS](https://www.gatsbyjs.com/) - Gatsby is a site generator that allows you to build fast websites and apps with React.
@@ -125,9 +147,13 @@ members or found helpful for managing open source projects and offices.
 
 ## Security
 
+Security scanning and vulnerability management tools.
+
 - [Eclipse Steady](https://github.com/eclipse-steady/steady) - Eclipse Steady, formerly known as "Vulnerability Assessement Tool" (Vulas), helps to discover, assess and mitigate known vulnerabilities in Java and Python projects.
 
 ## In-Kind Donations
+
+Resources for in-kind donations and support programs.
 
 The following organizations have formal or informal programs for offering in-kind donations to free and open source projects or foundations.
 
