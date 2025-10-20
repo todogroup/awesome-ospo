@@ -16,6 +16,7 @@ members or found helpful for managing open source projects and offices.
 - [Websites and Documentation](#websites-and-documentation)
 - [Security](#security)
 - [In-Kind Donations](#in-kind-donations)
+- [Content License](#content-license)
 
 ## Code Reviews
 
@@ -25,7 +26,7 @@ members or found helpful for managing open source projects and offices.
 - [pull-request-size](https://github.com/noqcks/pull-request-size) - Automatically adds GitHub labels based on the size of a Pull Request.
 - [Pullie](https://github.com/godaddy/pullie) - GitHub App that helps with PRs: requests reviews, links Jira tickets, nags for missing required file changes (e.g. changelog entries)
 
-## Continuous Integration / Continuous Delivery 
+## Continuous Integration / Continuous Delivery
 
 - [GitHub Actions](https://github.com/features/actions) - Automate your workflow from idea to production.
 - [Jenkins](https://www.jenkins.io/) - open source automation server that provides hundreds of plugins to support building, deploying and automating any project.
@@ -41,7 +42,7 @@ members or found helpful for managing open source projects and offices.
 - [CLA Assistant](https://github.com/cla-assistant/cla-assistant) - Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.
 - [Dr CLA](https://github.com/salesforce/dr-cla) - GitHub bot for dealing with Contributor License Agreements
 - [DCO Bot](https://github.com/apps/dco) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
-- [EasyCLA](https://github.com/communitybridge/easycla) - a Contributor License Agreement (CLA) service used in Linux Foundation's LFX platform which lets project contributors read, sign, and submit contributor license agreements easily
+- [EasyCLA](https://github.com/linuxfoundation/easycla) - a Contributor License Agreement (CLA) service used in Linux Foundation's LFX platform which lets project contributors read, sign, and submit contributor license agreements easily
 
 ## GitHub Metrics and Dashboards
 
@@ -62,7 +63,7 @@ members or found helpful for managing open source projects and offices.
 - [github org scripts](https://github.com/mozilla/github-org-scripts) - Some helper scripts to manage github orgs via API.
 - [github-org-mgmt scripts](https://github.com/bertvv/github-org-mgmt) - A few scripts for managing a Github organization
 - [Automated Github Organization Invites](https://github.com/thundergolfer/automated-github-organization-invites) - Host a webpage allow people to click and receive and invite to your Github Organization
-- [Pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo. 
+- [Pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [Grit](https://github.com/grailbio/grit) - Grit is a tool to mirror monorepo subtrees to Github
 - [Sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite
 - [Mariner Issue Collector](https://github.com/indeedeng/Mariner-Issue-Collector) - Identify open issues across all of your dependencies
@@ -106,8 +107,8 @@ members or found helpful for managing open source projects and offices.
 - [FOSSID](https://fossid.com) - A comprehensive commercial scanner for licenses and vulnerabilities.  Knowledgebase covers 78M+ repositories and 600B+ snippets. Includes detailed snippet scanning to detect the license on fragments and copied/pasted code, even if the open source license is not explicitly or correctly declared.
 - [DependencyTrack](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain
 - [ScanOSS](https://www.scanoss.com/) - Scan your codebase for snippets and plagerism from large knowledge base of open source projects.  Designed to integrate with CI/CD and modern IDEs, to "start left" to do continuous validation instead of one report at the end.  Product itself is fully open source.  
-- [TLDRLegal](https://www.tldrlegal.com/) - TLDRLegal summarizes the most common open source licenses in plain English. Provides a quick reference for what a user can, cannot, and must do according to the license terms. 
-- [Choose A License](https://choosealicense.com/) - Choose A License recommends an open source license based on the collaboration style and intended use of a project. The site's appendix provides a helpful birds-eye view of terms across the most common licenses. 
+- [TLDRLegal](https://www.tldrlegal.com/) - TLDRLegal summarizes the most common open source licenses in plain English. Provides a quick reference for what a user can, cannot, and must do according to the license terms.
+- [Choose A License](https://choosealicense.com/) - Choose A License recommends an open source license based on the collaboration style and intended use of a project. The site's appendix provides a helpful birds-eye view of terms across the most common licenses.
 - [ClearlyDefined](https://clearlydefined.io/) - ClearlyDefined is an open source project and a free service that provides a cached copy of licensing metadata for software components through a simple [API](https://api.clearlydefined.io/api-docs/). Organizations are be able to contribute back any missing or wrongly identified licensing metadata, helping to create a global database that is accurate for the benefit of all, improving compliance and security across the whole software supply chain.  
 
 ## Localization and Internationalization
@@ -124,7 +125,7 @@ members or found helpful for managing open source projects and offices.
 
 ## Security
 
-- [Eclipse Steady](https://github.com/eclipse/steady) - Eclipse Steady, formerly known as "Vulnerability Assessement Tool" (Vulas), helps to discover, assess and mitigate known vulnerabilities in Java and Python projects.
+- [Eclipse Steady](https://github.com/eclipse-steady/steady) - Eclipse Steady, formerly known as "Vulnerability Assessement Tool" (Vulas), helps to discover, assess and mitigate known vulnerabilities in Java and Python projects.
 
 ## In-Kind Donations
 
@@ -133,6 +134,6 @@ The following organizations have formal or informal programs for offering in-kin
 - [AWS](https://aws.amazon.com/opensource/) - AWS started a program in 2019 to provide promotional credits to open source projects. Details are in [this blog post](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/) (Last Updated: April 14, 2021)
 - [Azure Credits](https://opensource.microsoft.com/azure-credits/) - This program grants Azure credits to open source projects, which developers can use for testing, storage, or other development.
 
-# Content License
+## Content License
 
 [![License: CC BY-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/) © Contributors 2016-2021
