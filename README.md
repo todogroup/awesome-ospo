@@ -12,6 +12,7 @@ Tools for managing and automating code review processes.
 - [pull-review](https://github.com/imsky/pull-review) - Assign pull request reviewers intelligently, inspired by mention-bot.
 - [pull-request-size](https://github.com/noqcks/pull-request-size) - Automatically adds GitHub labels based on the size of a pull request.
 - [Pullie](https://github.com/godaddy/pullie) - GitHub App that helps with pull requests (requests reviews, links Jira tickets, reminds users about missing required file changes e.g., changelog entries).
+- [Maintainer Radar](https://github.com/JackSpiece/maintainer-radar) - GitHub Action and local CLI that produces read-only PR triage reports for maintainers.
 
 ## Continuous Integration / Continuous Delivery
 
