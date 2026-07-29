@@ -144,6 +144,7 @@ The following organizations have formal or informal programs for offering in-kin
 
 - [AWS](https://aws.amazon.com/opensource/) - A program started in 2019 to provide promotional credits to open source projects. Details are in [this blog post](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/) (Last Updated: April 14, 2021)
 - [Azure Credits](https://opensource.microsoft.com/azure-credits/) - This program grants Azure credits to open source projects, which developers can use for testing, storage, or other development.
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 ## Content License
 
