@@ -104,6 +104,7 @@ Tools for managing and tracking open source licenses.
 - [License Classifier](https://github.com/google/licenseclassifier) - A library and set of tools that can analyze text to determine what type of license it contains.
 - [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) - Enables highly automated and customizable open source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
 - [fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.
+- [BomLens](https://github.com/sktelecom/bomlens) - Generate CycloneDX SBOMs, open source notice files, and license/security risk reports from source, containers, firmware, and AI models. Runs locally in Docker with a CLI, web UI, and desktop app.
 - [Licensed](https://github.com/licensee/licensed) - A Ruby gem to cache and verify the licenses of dependencies.
 - [LicensePlist](https://github.com/mono0926/LicensePlist) - A command-line tool that automatically generates a Plist of all your dependencies, including files added manually (specified by YAML config file) or using Carthage or CocoaPods.
 - [dpkg-licenses](https://github.com/daald/dpkg-licenses) - A command line tool which lists the licenses of all installed packages in a Debian-based system (like Ubuntu).
