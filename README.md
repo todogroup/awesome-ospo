@@ -7,6 +7,7 @@ members or found helpful for managing open source projects and offices.
 
 Tools for managing and automating code review processes.
 
+- [PR Quality Gate](https://github.com/CreativeCodingSolutions/pr-quality-gate) - Free GitHub Action to enforce PR description length, labels, and linked issues. Checks every pull request and comments with a quality report. Supports warn/fail modes.
 - [PullApprove](https://www.pullapprove.com) - Allows for fancier rules on how pull requests are approved.
 - [sentinel](https://github.com/habitat-sh/sentinel) - PR Test, review, and merge workflow bot.
 - [pull-review](https://github.com/imsky/pull-review) - Assign pull request reviewers intelligently, inspired by mention-bot.
