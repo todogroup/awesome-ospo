@@ -135,6 +135,7 @@ Tools for creating and managing project websites and documentation.
 Security scanning and vulnerability management tools.
 
 - [Eclipse Steady](https://github.com/eclipse-steady/steady) - Helps to discover, assess and mitigate known vulnerabilities in Java and Python projects. Formerly known as "Vulnerability Assessement Tool" (Vulas).
+- [DefectDojo](https://github.com/defectdojo/django-defectdojo) - An OWASP flagship DevSecOps platform that streamlines the vulnerability management lifecycle by importing findings from 200+ security scanning tools, deduplicating them, and tracking remediation across products and engagements.
 
 ## In-Kind Donations
 
