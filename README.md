@@ -34,6 +34,7 @@ CLA and DCO management tools.
 - [Dr CLA](https://github.com/salesforce/dr-cla) - GitHub bot for dealing with Contributor License Agreements.
 - [DCO Bot](https://github.com/apps/dco) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests.
 - [EasyCLA](https://github.com/linuxfoundation/easycla) - A Contributor License Agreement (CLA) service used in the Linux Foundation's LFX platform which lets project contributors read, sign, and submit contributor license agreements easily.
+- [CLA Bot](https://cla.fiveonefour.com) - Open-source GitHub App that automates Contributor License Agreement (CLA) signing and enforcement on pull requests
 
 ## GitHub Metrics and Dashboards
 
