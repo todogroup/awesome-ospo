@@ -116,6 +116,7 @@ Tools for managing and tracking open source licenses.
 - [Choose A License](https://choosealicense.com/) - Recommends an open source license based on the collaboration style and intended use of a project. The site's appendix provides a helpful birds-eye view of terms across the most common licenses.
 - [ClearlyDefined](https://clearlydefined.io/) - An open source project and a free service that provides a cached copy of licensing metadata for software components through a simple [API](https://api.clearlydefined.io/api-docs/). Organizations are be able to contribute back any missing or wrongly identified licensing metadata, helping to create a global database that is accurate for the benefit of all, improving compliance and security across the whole software supply chain.  
 - [licensegate](https://licensegate.org/) - Checks what the licenses of your npm dependencies mean for how you ship (SaaS, distributed app, library or internal), fails CI on a conflict, and writes a CycloneDX SBOM and third-party notices.
+- [spdxify](https://github.com/hamarshehmhmd/spdxify) - Migrates Python packages to PEP 639 SPDX license metadata: finds deprecated license tables and `License ::` classifiers across a repo, derives the SPDX expression from metadata and LICENSE texts, writes a format-preserving fix and verifies it with setuptools. CLI, GitHub Action and pre-commit hook.
 
 ## Localization and Internationalization
 
