@@ -86,6 +86,7 @@ Tools for assessing and improving project quality.
 - [Linguist](https://github.com/github-linguist/linguist) - Identify the programming languages used in a project.
 - [repo-scaffolding](https://github.com/twitter/repo-scaffolding) - Scaffolding tools for creating and maintaining projects based on Twitter Open Source standards and best practices.
 - [Repo Health Check](https://github.com/dogweather/repo-health-check) - Analyze a project: How are the maintainers doing?
+- [Changelog badge](https://release-ripple-roadmap.lovable.app/tools/changelog-badge) - Free README badge that checks a repository's CHANGELOG.md against Keep a Changelog and links to a report with the line number and a fix for each problem.
 
 ## Supply Chain Trust
 
